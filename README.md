@@ -1,0 +1,2 @@
+# myAppIonic
+ionic app
